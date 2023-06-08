@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\GAURANG\Desktop\spring_framework\Spring_Framework"/>
 			<item value="C:\Users\GAURANG\Desktop\spring_framework"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,16 +27,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="SpringCore"/>
-			<item value="com.Spring"/>
+			<item value="com"/>
+			<item value="spring"/>
 		</list>
 		<list key="groupId">
-			<item value="SpringCore"/>
-			<item value="com.Spring"/>
+			<item value="com"/>
+			<item value="spring"/>
 		</list>
 		<list key="artifactId">
-			<item value="Spring_Framework"/>
-			<item value="SpringCore"/>
+			<item value="SpringMVC"/>
+			<item value="SpringORM"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
